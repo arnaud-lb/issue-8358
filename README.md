@@ -1,4 +1,4 @@
-## How to start the demo app:
+## Start a server with the symfony demo app:
 
 ```
 (cd code/base && composer install) && \
